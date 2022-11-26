@@ -2,9 +2,9 @@
 This software is not related to MultiMC developers and provided without any warranty. Please don't bomb MultiMC developers if something gets wrong using this launcher.
 
 ## Pre-built binaries (experimental as for now):
-- Windows: ![MultiMC5-Cracked Develop](https://github.com/PibePlayer/MultiMC5-Cracked/actions/workflows/main.yml/badge.svg) 
+- Windows: ![MultiMC5-Cracked Develop](https://github.com/AlexbavGamer/MultiMC5-Cracked/actions/workflows/main.yml/badge.svg) 
 
-    [nightly.link lastest-builds(Linux and Windows)](https://nightly.link/PibePlayer/MultiMC5-Cracked/workflows/main/develop)
+    [nightly.link lastest-builds(Linux and Windows)](https://nightly.link/AlexbavGamer/MultiMC5-Cracked/workflows/main/develop)
   
     [In-House OAuthApp lastest-build (Windows Only)](https://pibeplayer.github.io/MultiMC5-Cracked/download-lastest/index.html)
     
